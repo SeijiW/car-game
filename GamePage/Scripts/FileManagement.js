@@ -1,7 +1,7 @@
 let canvas = document.getElementById('canvas');
 let ctx = canvas.getContext('2d');
 
-relativePath = "https://github.com/SeijiW/car-game.git/GamePage/";
+relativePath = "https://seijiw.github.io/car-game/GamePage/";
 //image loading
 let ColorIMG = new Image(225, 225);
 ColorIMG.src = relativePath + "Images/color.png";
